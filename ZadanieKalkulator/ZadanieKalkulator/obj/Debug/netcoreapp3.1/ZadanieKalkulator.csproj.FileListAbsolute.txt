@@ -1,0 +1,13 @@
+C:\Users\mateusz.wenta\source\repos\ZadanieKalkulator\ZadanieKalkulator\obj\Debug\netcoreapp3.1\ZadanieKalkulator.csprojAssemblyReference.cache
+C:\Users\mateusz.wenta\source\repos\ZadanieKalkulator\ZadanieKalkulator\obj\Debug\netcoreapp3.1\ZadanieKalkulator.AssemblyInfoInputs.cache
+C:\Users\mateusz.wenta\source\repos\ZadanieKalkulator\ZadanieKalkulator\obj\Debug\netcoreapp3.1\ZadanieKalkulator.AssemblyInfo.cs
+C:\Users\mateusz.wenta\source\repos\ZadanieKalkulator\ZadanieKalkulator\obj\Debug\netcoreapp3.1\ZadanieKalkulator.csproj.CoreCompileInputs.cache
+C:\Users\mateusz.wenta\source\repos\ZadanieKalkulator\ZadanieKalkulator\bin\Debug\netcoreapp3.1\ZadanieKalkulator.deps.json
+C:\Users\mateusz.wenta\source\repos\ZadanieKalkulator\ZadanieKalkulator\bin\Debug\netcoreapp3.1\ZadanieKalkulator.dll
+C:\Users\mateusz.wenta\source\repos\ZadanieKalkulator\ZadanieKalkulator\bin\Debug\netcoreapp3.1\ZadanieKalkulator.pdb
+C:\Users\mateusz.wenta\source\repos\ZadanieKalkulator\ZadanieKalkulator\obj\Debug\netcoreapp3.1\ZadanieKalkulator.dll
+C:\Users\mateusz.wenta\source\repos\ZadanieKalkulator\ZadanieKalkulator\obj\Debug\netcoreapp3.1\ZadanieKalkulator.pdb
+C:\Users\mateusz.wenta\source\repos\ZadanieKalkulator\ZadanieKalkulator\bin\Debug\netcoreapp3.1\ZadanieKalkulator.exe
+C:\Users\mateusz.wenta\source\repos\ZadanieKalkulator\ZadanieKalkulator\bin\Debug\netcoreapp3.1\ZadanieKalkulator.runtimeconfig.json
+C:\Users\mateusz.wenta\source\repos\ZadanieKalkulator\ZadanieKalkulator\bin\Debug\netcoreapp3.1\ZadanieKalkulator.runtimeconfig.dev.json
+C:\Users\mateusz.wenta\source\repos\ZadanieKalkulator\ZadanieKalkulator\obj\Debug\netcoreapp3.1\ZadanieKalkulator.genruntimeconfig.cache

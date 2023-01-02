@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="Figura" min="-2" max="-2" attributes="0"/>
+                  <Component id="obliczeniaObj1" min="-2" pref="100" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="Sześcian" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="X" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="Prostopadłościan" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Y" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="Walec" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                              <Component id="Stożek" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="H" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="R" min="-2" max="-2" attributes="0"/>
+                          <Component id="Koło" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="117" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="Koło" min="-2" max="-2" attributes="0"/>
+                  <Component id="Stożek" min="-2" max="-2" attributes="0"/>
+                  <Component id="Walec" min="-2" max="-2" attributes="0"/>
+                  <Component id="Prostopadłościan" min="-2" max="-2" attributes="0"/>
+                  <Component id="Sześcian" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+              <Component id="Figura" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="60" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="X" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Y" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="H" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="R" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="obliczeniaObj1" min="-2" pref="100" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="komponenty.Przycisk" name="Sze&#x15b;cian">
+      <Properties>
+        <Property name="label" type="java.lang.String" value="Sze&#x15b;cian"/>
+        <Property name="name" type="java.lang.String" value="Sze&#x15b;cian" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Sze&#x15b;cianActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="komponenty.Przycisk" name="Prostopad&#x142;o&#x15b;cian">
+      <Properties>
+        <Property name="label" type="java.lang.String" value="Prostopad&#x142;o&#x15b;cian"/>
+        <Property name="name" type="java.lang.String" value="Prostopad&#x142;o&#x15b;cian" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Prostopad&#x142;o&#x15b;cianActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="komponenty.Przycisk" name="Walec">
+      <Properties>
+        <Property name="label" type="java.lang.String" value="Walec"/>
+        <Property name="name" type="java.lang.String" value="Walec" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="WalecActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="komponenty.Przycisk" name="Sto&#x17c;ek">
+      <Properties>
+        <Property name="label" type="java.lang.String" value="Sto&#x17c;ek"/>
+        <Property name="name" type="java.lang.String" value="Sto&#x17c;ek" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Sto&#x17c;ekActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="komponenty.Przycisk" name="Ko&#x142;o">
+      <Properties>
+        <Property name="actionCommand" type="java.lang.String" value="Ko&#x142;o"/>
+        <Property name="label" type="java.lang.String" value="Ko&#x142;o"/>
+        <Property name="name" type="java.lang.String" value="Ko&#x142;o" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Ko&#x142;oActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="komponenty.ObliczeniaObj" name="obliczeniaObj1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+    </Container>
+    <Component class="komponenty.Jlabel" name="X">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="X: "/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+        <Property name="name" type="java.lang.String" value="X" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="komponenty.Jlabel" name="Y">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Y: "/>
+      </Properties>
+    </Component>
+    <Component class="komponenty.Jlabel" name="H">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="H: "/>
+      </Properties>
+    </Component>
+    <Component class="komponenty.Jlabel" name="R">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="R: "/>
+      </Properties>
+    </Component>
+    <Component class="komponenty.Jlabel" name="Figura">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Figura"/>
+      </Properties>
+      <Events>
+        <EventHandler event="ancestorAdded" listener="javax.swing.event.AncestorListener" parameters="javax.swing.event.AncestorEvent" handler="FiguraAncestorAdded"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
